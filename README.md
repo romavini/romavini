@@ -11,13 +11,14 @@
 *Looking for opportunities to learn!*
 - Mathematician delighted with Data Science and Machine Learning.
 
-#### 📌 &nbsp; Tech Stack
+#### 📌 &nbsp; Knowledge 
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Octave](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Octave)
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
 - 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
