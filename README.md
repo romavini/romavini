@@ -21,7 +21,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
-Check the repository section! I hope you enjoy! it! <br>
+Check the repository section! I hope you enjoy it! <br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-romano-da-silva-5102a3102/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinícius%20Romano-blue?style=flat-square&logo=linkedin"></a>
