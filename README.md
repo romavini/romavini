@@ -25,6 +25,6 @@
 Check the repository section! I hope you enjoy it! <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-romano-da-silva-5102a3102/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinícius%20Romano-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/romavini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinícius%20Romano-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mdcdxcvi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdcdxcvi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
