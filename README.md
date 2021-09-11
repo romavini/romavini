@@ -12,7 +12,8 @@
 - Mathematician delighted with Data Science and Machine Learning.
 
 #### 📌 &nbsp; Knowledge 
-
+- 💾 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Octave](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Octave)
